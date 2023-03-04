@@ -113,9 +113,9 @@ const Shop = () => {
                         {number + 1}
                     </button>)
                 }
-                <select onChange={event => setSize(event.target.value)}>
+                <select defaultValue={'10'} onChange={event => setSize(event.target.value)}>
                     <option value="5">5</option>
-                    <option value="10" selected>10</option>
+                    <option value="10">10</option>
                     <option value="15">15</option>
                     <option value="20">20</option>
                 </select>
