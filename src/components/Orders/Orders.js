@@ -12,6 +12,7 @@ const Orders = () => {
         const remaining = cart.filter(product => product._id !== id);
         setCart(remaining);
         removeFromDb(id);
+        console.log(id)
     }
 
     const clearCart = () =>{

@@ -1,3 +1,23 @@
+# Ema Jon Market
+
+## live link [website](https://ema-jhon-9.web.app/)
+
+## Ema Jon Market
+### Tools:
+ - React JS,
+ - Node JS,- Express JS,
+ - MongoDB,
+ - Firebase Authentication,
+ - React-Router-Dom,
+ - React Query.
+### Feature:
+> 1. Using pagination for loading data from server and show data on browser.
+> 2. Localstorage usage for store data what product user ordered.
+> 3. firebase authentication added for keep user login and log out.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
